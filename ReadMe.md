@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Ilyas Ziganshin  
 
 💻 Python Developer | 🌍 Based in Kazan, Republic of Tatarstan  
 ⚡ Passionate about backend, algorithms & building useful tools  
