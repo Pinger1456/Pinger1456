@@ -6,14 +6,14 @@
 ---
 
 ## 🚀 About Me  
-- 🐍 Python — мой основной язык для проектов и автоматизации  
-- 🐳 Docker — контейнеризация и удобный деплой  
-- 🗄️ MySQL & PostgreSQL — запросы, оптимизация и проектирование БД  
-- 📐 ООП — проектирую поддерживаемое и расширяемое ПО  
-- 🧩 Алгоритмы — люблю решать сложные задачи и оптимизировать код  
+- 🐍 Python — my main language for projects and automation  
+- 🐳 Docker — containerization and smooth deployment 
+- 🗄️ MySQL & PostgreSQL — queries, optimization, and database design  
+- 📐 ООП — designing maintainable and scalable software 
+- 🧩 Алгоритмы — I enjoy solving complex problems and optimizing code 
 
-✨ В свободное время занимаюсь пет-проектами, решаю задачи на LeetCode и изучаю новые технологии.  
-🤝 Открыт к сотрудничеству и интересным проектам!  
+✨ In my free time, I work on pet projects, solve challenges on LeetCode, and explore new technologies.
+🤝 Open to collaboration and exciting projects! 
 
 ---
 
