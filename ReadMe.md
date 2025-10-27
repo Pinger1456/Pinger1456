@@ -9,8 +9,7 @@
 - 🐍 Python — my main language for projects and automation  
 - 🐳 Docker — containerization and smooth deployment 
 - 🗄️ MySQL & PostgreSQL — queries, optimization, and database design  
-- 📐 ООП — designing maintainable and scalable software 
-- 🧩 Алгоритмы — I enjoy solving complex problems and optimizing code 
+- 🧩 Algorithms — I enjoy solving complex problems and optimizing code 
 
 ✨ In my free time, I work on pet projects, solve challenges on LeetCode, and explore new technologies.
 🤝 Open to collaboration and exciting projects! 
