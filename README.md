@@ -47,11 +47,15 @@ Sanitized skeletons of production systems I ship. Client code stays under NDA �
 
 ### Also in the toolbox
 
-**Data** &nbsp; MySQL · ClickHouse · Redis · Prisma · ChromaDB
-**AI/LLM** &nbsp; vLLM · llama.cpp · Ollama · OpenRouter · MCP servers · RAG · agentic loops
+**AI/LLM** &nbsp; vLLM · llama.cpp · Ollama · OpenRouter · MCP servers · RAG · agentic loops · ChromaDB · fastembed
+
+**Data** &nbsp; PostgreSQL · MySQL · SQLite · ClickHouse · Redis · Prisma
+
 **Automation** &nbsp; Playwright · Telegram (gramjs MTProto + Bot API) · AmoCRM · VK Ads · ЮKassa · n8n
-**Ops** &nbsp; pm2 · nginx · VPS · Vercel · Netlify · docker-compose (GPU nvidia/amd)
-**Frontend** &nbsp; Vite · Astro · Tailwind · shadcn/ui · framer-motion · Recharts
+
+**Frontend** &nbsp; Next.js · React · Vite · Astro · Tailwind · shadcn/ui · framer-motion · Recharts
+
+**Ops** &nbsp; Docker · docker-compose (GPU nvidia/amd) · pm2 · nginx · VPS · Vercel · Netlify · GitHub Actions
 
 ### What I've been shipping (under NDA)
 
