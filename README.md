@@ -1,37 +1,69 @@
-# Hi, I'm Ilyas 👋
+<div align="center">
 
-Full-Stack Engineer · AI/LLM · Python + Node.js — building agentic systems, fintech backends, and analytics dashboards end-to-end.
+# Ilyas Ziganshin
 
-Based in Tashkent · Available for remote contracts.
+**Full-Stack Engineer · AI/LLM · Python + Node.js**
 
-## What I ship
+Building agentic systems, fintech backends, and analytics dashboards end-to-end.
 
-- **AI agents & MCP servers** — RAG pipelines, tool-use loops, memory persistence. Custom Claude Code agents/skills/hooks in daily use.
-- **Node.js backends with real security surface** — AES-256-GCM sessions, HMAC-signed webhooks, exponential backoff, phased migrations.
-- **Next.js + Prisma dashboards** — Server Components, SQL aggregation, URL-based filters, no client-state cruft.
-- **Automation glue** — Playwright scraping, Telegram bots, CRM integrations, `n8n` workflows, cron on VPS with `pm2`.
+📍 &nbsp;Tashkent, Uzbekistan &nbsp; · &nbsp; 💼 &nbsp;Open to remote contracts &nbsp; · &nbsp; ✉ &nbsp;ilyas.ziganshn@gmail.com
 
-## Highlighted repos
+</div>
 
-| Repo | What | Stack |
-|---|---|---|
-| [`mcp-rag-mini`](https://github.com/Pinger1456/mcp-rag-mini) | RAG service exposed via REST **and** MCP tool — same ChromaDB index behind both | Python · FastAPI · ChromaDB · fastembed · MCP SDK |
-| [`crm-lead-digest`](https://github.com/Pinger1456/crm-lead-digest) | Playwright scraper → SQLite → YAML rules → Telegram digest. Dry-run first. | Node.js · Playwright · better-sqlite3 · grammy |
-| [`next-analytics-dashboard`](https://github.com/Pinger1456/next-analytics-dashboard) | Sanitized skeleton of a franchise-network dashboard — Server Components + Prisma raw SQL | Next.js 15 · React 19 · Prisma · Recharts · Tailwind |
+---
 
-Most of my commercial work is under NDA. These three are sanitized patterns from that work — same shape, mock data.
+### Stack
 
-## Stack I reach for by default
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Backend:** Python (FastAPI, Flask) · Node.js (Express, `node:sqlite`) · Prisma
-**Frontend:** Next.js 15/16 · React 19 · Vite · Astro · Tailwind · shadcn/ui · framer-motion
-**Data:** PostgreSQL · MySQL · SQLite · ChromaDB · ClickHouse · Redis
-**AI/LLM:** vLLM · llama.cpp · Ollama · OpenRouter · ChromaDB · fastembed (ONNX) · MCP servers · RAG · agentic loops
-**Infra:** Docker · docker-compose (GPU nvidia/amd) · pm2 · nginx · VPS · Vercel · Netlify · GitHub Actions · cron
-**Integrations:** AmoCRM · Telegram (gramjs MTProto + Bot API) · VK Ads · ЮKassa · Playwright · n8n
+### Featured work
 
-## Contact
+Sanitized skeletons of production systems I ship. Client code stays under NDA — these show the shape.
 
-📧 ilyas.ziganshn@gmail.com
+<table>
+<tr>
+<td width="60" align="center">🧬</td>
+<td width="270"><a href="https://github.com/Pinger1456/mcp-rag-mini"><b>mcp-rag-mini</b></a></td>
+<td>RAG service exposing the same ChromaDB index via <b>REST and MCP tool</b>. Retrieval and generation split cleanly.<br/><sub>Python · FastAPI · ChromaDB · fastembed · MCP SDK</sub></td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><a href="https://github.com/Pinger1456/crm-lead-digest"><b>crm-lead-digest</b></a></td>
+<td>Playwright scraper → SQLite → YAML rules → Telegram digest. <b>Dry-run first</b>, idempotent upserts, 429-aware retries.<br/><sub>Node.js · Playwright · better-sqlite3 · grammy</sub></td>
+</tr>
+<tr>
+<td align="center">📊</td>
+<td><a href="https://github.com/Pinger1456/next-analytics-dashboard"><b>next-analytics-dashboard</b></a></td>
+<td>Server Components + Prisma raw SQL for aggregates + URL-based range filters. No client-state cruft.<br/><sub>Next.js 15 · React 19 · Prisma · Recharts · Tailwind</sub></td>
+</tr>
+</table>
 
-<sub>_Older repos in this account are learning-era projects (2023). Current work lives in the pinned repos above and — for commercial builds — in private repos._</sub>
+### Also comfortable with
+
+<sub>MySQL · ClickHouse · Redis · Prisma · vLLM · llama.cpp · Ollama · OpenRouter · MCP servers · RAG · agentic loops · Playwright · Telegram (gramjs MTProto + Bot API) · AmoCRM · VK Ads · ЮKassa · n8n · pm2 · nginx · VPS · Vercel · Netlify · Vite · Astro · Tailwind · shadcn/ui · framer-motion · Recharts</sub>
+
+### What I've been shipping
+
+- **Self-hosted AI workspace** — full ChatGPT/Claude-style UI with agents, persistent memory, MCP tool-use, deep-research pipeline. Docker-compose with GPU variants.
+- **Multi-tenant fintech SaaS** — Node.js + `node:sqlite`, custom webhook engine with backoff, AES-256-GCM sessions, HMAC-signed URLs, ЮKassa billing.
+- **AmoCRM control bot** — 120k-line Node.js codebase, cron-driven rule engine, dry-run mode, fan-out across 13 tenants.
+- **VK Ads analytics pipeline** — Node.js poller into ClickHouse, pagination 250 / batch 200, stale-run alerts.
+
+### Recent activity
+
+<a href="https://github.com/Pinger1456">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinger1456&layout=compact&theme=default&hide_border=true&card_width=340&langs_count=8&hide=html,css,jupyter%20notebook" />
+</a>
+
+### Get in touch
+
+**Email:** ilyas.ziganshn@gmail.com &nbsp;·&nbsp; **GitHub:** [@Pinger1456](https://github.com/Pinger1456)
+
+<sub>Older repos in this account are learning-era projects from 2023–early 2024. Current work lives in the featured repos above; commercial builds are private.</sub>
