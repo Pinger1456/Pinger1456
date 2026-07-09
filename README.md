@@ -6,7 +6,9 @@
 
 Building agentic systems, fintech backends, and analytics dashboards end-to-end.
 
-📍 &nbsp;Tashkent, Uzbekistan &nbsp; · &nbsp; 💼 &nbsp;Open to remote contracts &nbsp; · &nbsp; ✉ &nbsp;ilyas.ziganshn@gmail.com
+📍 &nbsp;Tashkent, Uzbekistan &nbsp; · &nbsp; 💼 &nbsp;Open to remote contracts
+
+✉ &nbsp;ilyas.ziganshn@gmail.com &nbsp; · &nbsp; 💬 &nbsp;<a href="https://t.me/z1ganshin_i">@z1ganshin_i</a>
 
 </div>
 
@@ -83,6 +85,6 @@ Solo or small teams. Own the whole ticket: database schema → API → UI → de
 
 ### Get in touch
 
-**Email:** ilyas.ziganshn@gmail.com &nbsp;·&nbsp; **GitHub:** [@Pinger1456](https://github.com/Pinger1456)
+**Telegram:** [@z1ganshin_i](https://t.me/z1ganshin_i) &nbsp;·&nbsp; **Email:** ilyas.ziganshn@gmail.com &nbsp;·&nbsp; **GitHub:** [@Pinger1456](https://github.com/Pinger1456)
 
 <sub>Older repos in this account are learning-era projects from 2023–early 2024. Current work lives in the featured repos above; commercial builds are private.</sub>
