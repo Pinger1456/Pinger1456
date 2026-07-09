@@ -23,9 +23,7 @@ Building agentic systems, fintech backends, and analytics dashboards end-to-end.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Featured work
-
-Sanitized skeletons of production systems I ship. Client code stays under NDA — these show the shape.
+### Featured work — AI / LLM
 
 <table>
 <tr>
@@ -34,8 +32,23 @@ Sanitized skeletons of production systems I ship. Client code stays under NDA �
 <td>RAG service exposing the same ChromaDB index via <b>REST and MCP tool</b>. Retrieval and generation split cleanly.<br/><sub>Python · FastAPI · ChromaDB · fastembed · MCP SDK</sub></td>
 </tr>
 <tr>
-<td align="center">🤖</td>
-<td><a href="https://github.com/Pinger1456/crm-lead-digest"><b>crm-lead-digest</b></a></td>
+<td align="center">🕹️</td>
+<td><a href="https://github.com/Pinger1456/ai-browser-agent"><b>ai-browser-agent</b></a></td>
+<td>Autonomous LLM-driven browser agent. Task in plain Russian → planned tool-calls → Playwright actions. Goal-check, bounded step budget.<br/><sub>Python · Playwright · OpenAI SDK · GLM/Zhipu · tool-calling</sub></td>
+</tr>
+<tr>
+<td align="center">💬</td>
+<td><a href="https://github.com/Pinger1456/telegram-multitool-bot"><b>telegram-multitool-bot</b></a></td>
+<td>Modular Telegram bot: Mistral chat + voice → text + OCR + weather. One handler module per capability.<br/><sub>Python · python-telegram-bot v21 · Mistral · SpeechRecognition · OCR.space</sub></td>
+</tr>
+</table>
+
+### Featured work — Backend & Automation
+
+<table>
+<tr>
+<td width="60" align="center">🤖</td>
+<td width="270"><a href="https://github.com/Pinger1456/crm-lead-digest"><b>crm-lead-digest</b></a></td>
 <td>Playwright scraper → SQLite → YAML rules → Telegram digest. <b>Dry-run first</b>, idempotent upserts, 429-aware retries.<br/><sub>Node.js · Playwright · better-sqlite3 · grammy</sub></td>
 </tr>
 <tr>
