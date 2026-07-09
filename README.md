@@ -45,22 +45,24 @@ Sanitized skeletons of production systems I ship. Client code stays under NDA �
 </tr>
 </table>
 
-### Also comfortable with
+### Also in the toolbox
 
-<sub>MySQL · ClickHouse · Redis · Prisma · vLLM · llama.cpp · Ollama · OpenRouter · MCP servers · RAG · agentic loops · Playwright · Telegram (gramjs MTProto + Bot API) · AmoCRM · VK Ads · ЮKassa · n8n · pm2 · nginx · VPS · Vercel · Netlify · Vite · Astro · Tailwind · shadcn/ui · framer-motion · Recharts</sub>
+**Data** &nbsp; MySQL · ClickHouse · Redis · Prisma · ChromaDB
+**AI/LLM** &nbsp; vLLM · llama.cpp · Ollama · OpenRouter · MCP servers · RAG · agentic loops
+**Automation** &nbsp; Playwright · Telegram (gramjs MTProto + Bot API) · AmoCRM · VK Ads · ЮKassa · n8n
+**Ops** &nbsp; pm2 · nginx · VPS · Vercel · Netlify · docker-compose (GPU nvidia/amd)
+**Frontend** &nbsp; Vite · Astro · Tailwind · shadcn/ui · framer-motion · Recharts
 
-### What I've been shipping
+### What I've been shipping (under NDA)
 
 - **Self-hosted AI workspace** — full ChatGPT/Claude-style UI with agents, persistent memory, MCP tool-use, deep-research pipeline. Docker-compose with GPU variants.
 - **Multi-tenant fintech SaaS** — Node.js + `node:sqlite`, custom webhook engine with backoff, AES-256-GCM sessions, HMAC-signed URLs, ЮKassa billing.
 - **AmoCRM control bot** — 120k-line Node.js codebase, cron-driven rule engine, dry-run mode, fan-out across 13 tenants.
 - **VK Ads analytics pipeline** — Node.js poller into ClickHouse, pagination 250 / batch 200, stale-run alerts.
 
-### Recent activity
+### How I work
 
-<a href="https://github.com/Pinger1456">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinger1456&layout=compact&theme=default&hide_border=true&card_width=340&langs_count=8&hide=html,css,jupyter%20notebook" />
-</a>
+Solo or small teams. Own the whole ticket: database schema → API → UI → deploy → monitoring. Comfortable with async communication across timezones. Write commit messages in English, code comments in whichever language the team is on.
 
 ### Get in touch
 
