@@ -6,7 +6,7 @@
 
 Building agentic systems, fintech backends, and analytics dashboards end-to-end.
 
-📍 &nbsp;Tashkent, Uzbekistan &nbsp; · &nbsp; 💼 &nbsp;Open to remote contracts
+📍 &nbsp;Kazan, Russia &nbsp; · &nbsp; 💼 &nbsp;Open to remote contracts
 
 ✉ &nbsp;ilyas.ziganshn@gmail.com &nbsp; · &nbsp; 💬 &nbsp;<a href="https://t.me/z1ganshin_i">@z1ganshin_i</a>
 
